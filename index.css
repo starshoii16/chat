@@ -54,7 +54,7 @@ body {
 }
 .chat {
   height: 650px;
-  background-image: url(/img/backgr.png);
+  background-image: url(./img/backgr.png);
   display: flex;
   justify-content: end;
   align-items: end;
